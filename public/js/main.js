@@ -90,7 +90,7 @@ class RequestForm extends React.Component {
     render() {
         return ( < Card >
             < CardTitle title = "Application"
-            subtitle = "Fill the form the send the request" / >
+            subtitle = "Fill the form to send the request" / >
 
             < CardText >
             < TextField id = "mailto"

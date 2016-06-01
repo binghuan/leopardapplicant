@@ -172,7 +172,7 @@
 	                _Card.Card,
 	                null,
 	                _react2.default.createElement(_Card.CardTitle, { title: 'Application',
-	                    subtitle: 'Fill the form the send the request' }),
+	                    subtitle: 'Fill the form to send the request' }),
 	                _react2.default.createElement(
 	                    _Card.CardText,
 	                    null,
